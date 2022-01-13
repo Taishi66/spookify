@@ -2,7 +2,7 @@
 
 export const authEndpoint = "https://accounts.spotify.com/authorize";
 
-const redirectUri = "http://localhost:3000"
+const redirectUri = "https://spookify-d4471.web.app"
 
 const clientId = "122015077f984db08676c3782fa702ff"
 
